@@ -1,3 +1,3 @@
-Computer Graphics Mini Project
+
 # Rain-Water-Harvesting-Using-OpenGL
 Rainwater harvesting is the accumulating and storing, of rainwater for reuse, before it reaches the aquifer. It has been used to provide drinking water, water for livestock, water for irrigation, as well as other typical uses given to water. Rainwater collected from the roofs of houses, tents and local institutions can make an important contribution to the availability of drinking water. It can supplement the sub soil water level and increase urban greenery. Water collected from the ground, sometimes from areas which are especially prepared for this purpose, is called Storm water harvesting.
